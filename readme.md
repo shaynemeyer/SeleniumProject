@@ -1,6 +1,13 @@
 # Selenium on Mac
 This project is all about getting Selenium setup on a Mac
 
+## Install
+On a Mac
+
+```bash
+sudo -H pip3 install selenium
+```
+
 ## Browsers
 
 ### FireFox
